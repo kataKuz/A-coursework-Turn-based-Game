@@ -1,0 +1,1360 @@
+2024-12-13 18:16:45 INFO  Game:52 - Game initialized with map size: 10
+2024-12-13 18:16:46 INFO  Game:105 - Game logic executed successfully.
+2024-12-13 18:16:51 INFO  Game:264 - Loading tile images...
+2024-12-13 18:16:55 INFO  Game:279 - Tile image loading completed.
+2024-12-13 18:16:55 INFO  Game:366 - Creating action buttons...
+2024-12-13 18:16:55 INFO  Game:394 - Action buttons created and added to panel. Initially disabled.
+2024-12-13 18:16:55 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:16:55 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:16:58 INFO  Game:228 - Game interface built successfully.
+2024-12-13 18:18:20 INFO  Game:52 - Game initialized with map size: 10
+2024-12-13 18:18:20 INFO  Game:105 - Game logic executed successfully.
+2024-12-13 18:18:27 INFO  Game:264 - Loading tile images...
+2024-12-13 18:18:27 INFO  Game:279 - Tile image loading completed.
+2024-12-13 18:18:27 INFO  Game:366 - Creating action buttons...
+2024-12-13 18:18:27 INFO  Game:394 - Action buttons created and added to panel. Initially disabled.
+2024-12-13 18:18:27 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:18:27 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:18:29 INFO  Game:228 - Game interface built successfully.
+2024-12-13 18:18:32 INFO  Game:621 - Saving game to file: file
+2024-12-13 18:18:32 INFO  Game:627 - Game saved successfully to file: file
+2024-12-13 18:28:30 INFO  Game:15 - Creating game map with size: 10
+2024-12-13 18:28:30 INFO  Game:50 - Game map created successfully.
+2024-12-13 18:28:30 INFO  Game:52 - Game initialized with map size: 10
+2024-12-13 18:28:30 INFO  Game:105 - Game logic executed successfully.
+2024-12-13 18:28:32 INFO  Game:264 - Loading tile images...
+2024-12-13 18:28:32 INFO  Game:279 - Tile image loading completed.
+2024-12-13 18:28:33 INFO  Game:366 - Creating action buttons...
+2024-12-13 18:28:33 INFO  Game:394 - Action buttons created and added to panel. Initially disabled.
+2024-12-13 18:28:33 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:33 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:34 INFO  Game:228 - Game interface built successfully.
+2024-12-13 18:28:35 INFO  Game:301 - Tile clicked at coordinates (9, 8stateEMPTY
+2024-12-13 18:28:36 INFO  Game:315 - Action button clicked
+2024-12-13 18:28:36 INFO  Game:334 - Player 1 claimed territory at (9, 8), Result: Вы освоили территорию
+2024-12-13 18:28:36 INFO  Game:542 - AI player's turn started.
+2024-12-13 18:28:36 INFO  Game:546 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 1)
+2024-12-13 18:28:36 INFO  Game:559 - AI player's turn ended.
+2024-12-13 18:28:36 INFO  Game:564 - End of day 0 started.
+2024-12-13 18:28:36 INFO  Game:608 - End of day 1 completed.
+2024-12-13 18:28:36 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:36 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:36 INFO  Game:399 - Updating game map...
+2024-12-13 18:28:36 INFO  Game:431 - Game map updated successfully.
+2024-12-13 18:28:36 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:36 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:36 INFO  Game:399 - Updating game map...
+2024-12-13 18:28:36 INFO  Game:431 - Game map updated successfully.
+2024-12-13 18:28:37 INFO  Game:301 - Tile clicked at coordinates (8, 9stateEMPTY
+2024-12-13 18:28:38 INFO  Game:315 - Action button clicked
+2024-12-13 18:28:38 INFO  Game:334 - Player 1 claimed territory at (8, 9), Result: Вы освоили территорию
+2024-12-13 18:28:38 INFO  Game:542 - AI player's turn started.
+2024-12-13 18:28:38 INFO  Game:546 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (1, 0)
+2024-12-13 18:28:38 INFO  Game:559 - AI player's turn ended.
+2024-12-13 18:28:38 INFO  Game:564 - End of day 1 started.
+2024-12-13 18:28:38 INFO  Game:608 - End of day 2 completed.
+2024-12-13 18:28:38 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:38 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:38 INFO  Game:399 - Updating game map...
+2024-12-13 18:28:38 INFO  Game:431 - Game map updated successfully.
+2024-12-13 18:28:38 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:38 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:38 INFO  Game:399 - Updating game map...
+2024-12-13 18:28:38 INFO  Game:431 - Game map updated successfully.
+2024-12-13 18:28:39 INFO  Game:301 - Tile clicked at coordinates (7, 9stateEMPTY
+2024-12-13 18:28:39 INFO  Game:315 - Action button clicked
+2024-12-13 18:28:39 INFO  Game:334 - Player 1 claimed territory at (7, 9), Result: Вы освоили территорию
+2024-12-13 18:28:39 INFO  Game:542 - AI player's turn started.
+2024-12-13 18:28:39 INFO  Game:546 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 2)
+2024-12-13 18:28:39 INFO  Game:559 - AI player's turn ended.
+2024-12-13 18:28:39 INFO  Game:564 - End of day 2 started.
+2024-12-13 18:28:39 INFO  Game:608 - End of day 3 completed.
+2024-12-13 18:28:39 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:39 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:39 INFO  Game:399 - Updating game map...
+2024-12-13 18:28:39 INFO  Game:431 - Game map updated successfully.
+2024-12-13 18:28:39 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:39 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:39 INFO  Game:399 - Updating game map...
+2024-12-13 18:28:39 INFO  Game:431 - Game map updated successfully.
+2024-12-13 18:28:41 INFO  Game:301 - Tile clicked at coordinates (8, 8stateEMPTY
+2024-12-13 18:28:41 INFO  Game:315 - Action button clicked
+2024-12-13 18:28:41 INFO  Game:334 - Player 1 claimed territory at (8, 8), Result: Вы освоили территорию
+2024-12-13 18:28:41 INFO  Game:542 - AI player's turn started.
+2024-12-13 18:28:41 INFO  Game:546 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (1, 1)
+2024-12-13 18:28:41 INFO  Game:559 - AI player's turn ended.
+2024-12-13 18:28:41 INFO  Game:564 - End of day 3 started.
+2024-12-13 18:28:41 INFO  Game:608 - End of day 4 completed.
+2024-12-13 18:28:41 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:41 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:41 INFO  Game:399 - Updating game map...
+2024-12-13 18:28:41 INFO  Game:431 - Game map updated successfully.
+2024-12-13 18:28:41 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:41 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:41 INFO  Game:399 - Updating game map...
+2024-12-13 18:28:41 INFO  Game:431 - Game map updated successfully.
+2024-12-13 18:28:42 INFO  Game:301 - Tile clicked at coordinates (9, 7stateEMPTY
+2024-12-13 18:28:43 INFO  Game:315 - Action button clicked
+2024-12-13 18:28:43 INFO  Game:334 - Player 1 claimed territory at (9, 7), Result: Вы освоили территорию
+2024-12-13 18:28:43 INFO  Game:542 - AI player's turn started.
+2024-12-13 18:28:43 INFO  Game:555 - AI player collected water (no other actions possible).
+2024-12-13 18:28:43 INFO  Game:559 - AI player's turn ended.
+2024-12-13 18:28:43 INFO  Game:564 - End of day 4 started.
+2024-12-13 18:28:43 INFO  Game:608 - End of day 5 completed.
+2024-12-13 18:28:43 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:43 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:43 INFO  Game:399 - Updating game map...
+2024-12-13 18:28:43 INFO  Game:431 - Game map updated successfully.
+2024-12-13 18:28:43 INFO  Game:435 - Updating player characteristics...
+2024-12-13 18:28:43 INFO  Game:459 - Player characteristics updated successfully.
+2024-12-13 18:28:43 INFO  Game:399 - Updating game map...
+2024-12-13 18:28:43 INFO  Game:431 - Game map updated successfully.
+2024-12-13 18:28:44 INFO  Game:301 - Tile clicked at coordinates (8, 7stateEMPTY
+2024-12-13 18:28:45 INFO  Game:315 - Action button clicked
+2024-12-13 18:28:45 INFO  Game:334 - Player 1 claimed territory at (8, 7), Result: Вы освоили территорию
+2024-12-13 18:28:45 INFO  Game:542 - AI player's turn started.
+2024-12-13 18:28:45 INFO  Game:551 - AI player performed other action. Result: ИИ полил рис в клетке (0, 0)
+2024-12-13 18:28:45 INFO  Game:559 - AI player's turn ended.
+2024-12-13 18:28:45 INFO  Game:564 - End of day 5 started.
+2024-12-13 18:28:45 INFO  Game:604 - Game over! Player 1 won: false
+2024-12-13 18:28:45 INFO  Game:498 - Showing end game window. Player won: false
+2024-12-13 18:28:46 INFO  Game:649 - Generating and showing resource graphs...
+2024-12-13 18:29:11 INFO  Game:690 - Resource graphs shown successfully.
+2024-12-13 18:29:12 INFO  Game:510 - End game window closed. Exiting application.
+2024-12-13 21:06:09 INFO  GameMap:27 - Creating game map with size: 10
+2024-12-13 21:06:09 INFO  GameMap:62 - Game map created successfully.
+2024-12-13 21:06:09 INFO  Game:59 - Game initialized with map size: 10
+2024-12-13 21:06:09 INFO  Game:117 - Game logic executed successfully.
+2024-12-13 21:50:35 INFO  GameMap:32 - Creating game map with size: 10
+2024-12-13 21:50:35 INFO  GameMap:67 - Game map created successfully.
+2024-12-13 21:50:35 INFO  Game:79 - Game initialized with map size: 10
+2024-12-13 21:50:36 INFO  Game:137 - Game logic executed successfully.
+2024-12-13 21:56:13 INFO  GameMap:32 - Creating game map with size: 10
+2024-12-13 21:56:13 INFO  GameMap:67 - Game map created successfully.
+2024-12-13 21:56:13 INFO  Game:79 - Game initialized with map size: 10
+2024-12-13 21:56:14 INFO  Game:137 - Game logic executed successfully.
+2024-12-13 21:56:15 INFO  Game:311 - Loading tile images...
+2024-12-13 21:56:15 INFO  Game:326 - Tile image loading completed.
+2024-12-13 21:56:16 INFO  Game:440 - Creating action buttons...
+2024-12-13 21:56:16 INFO  Game:468 - Action buttons created and added to panel. Initially disabled.
+2024-12-13 21:56:16 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:16 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:18 INFO  Game:261 - Game interface built successfully.
+2024-12-13 21:56:30 INFO  Game:364 - Tile clicked at coordinates (9, 8stateEMPTY
+2024-12-13 21:56:33 INFO  Game:384 - Action button clicked
+2024-12-13 21:56:33 INFO  Game:403 - Player 1 claimed territory at (9, 8), Result: Вы освоили территорию
+2024-12-13 21:56:33 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:56:33 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 1)
+2024-12-13 21:56:33 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:56:33 INFO  Game:669 - End of day 0 started.
+2024-12-13 21:56:33 INFO  Game:713 - End of day 1 completed.
+2024-12-13 21:56:33 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:33 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:33 INFO  Game:478 - Updating game map...
+2024-12-13 21:56:33 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:56:33 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:33 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:33 INFO  Game:478 - Updating game map...
+2024-12-13 21:56:33 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:56:33 INFO  Game:364 - Tile clicked at coordinates (8, 9stateEMPTY
+2024-12-13 21:56:34 INFO  Game:384 - Action button clicked
+2024-12-13 21:56:34 INFO  Game:403 - Player 1 claimed territory at (8, 9), Result: Вы освоили территорию
+2024-12-13 21:56:34 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:56:34 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (1, 0)
+2024-12-13 21:56:34 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:56:34 INFO  Game:669 - End of day 1 started.
+2024-12-13 21:56:34 INFO  Game:713 - End of day 2 completed.
+2024-12-13 21:56:34 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:34 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:34 INFO  Game:478 - Updating game map...
+2024-12-13 21:56:34 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:56:34 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:34 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:34 INFO  Game:478 - Updating game map...
+2024-12-13 21:56:34 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:56:53 INFO  Game:364 - Tile clicked at coordinates (8, 8stateEMPTY
+2024-12-13 21:56:54 INFO  Game:384 - Action button clicked
+2024-12-13 21:56:54 INFO  Game:403 - Player 1 claimed territory at (8, 8), Result: Вы освоили территорию
+2024-12-13 21:56:54 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:56:54 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 2)
+2024-12-13 21:56:54 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:56:54 INFO  Game:669 - End of day 2 started.
+2024-12-13 21:56:54 INFO  Game:713 - End of day 3 completed.
+2024-12-13 21:56:54 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:54 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:54 INFO  Game:478 - Updating game map...
+2024-12-13 21:56:54 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:56:54 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:54 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:54 INFO  Game:478 - Updating game map...
+2024-12-13 21:56:54 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:56:55 INFO  Game:364 - Tile clicked at coordinates (9, 7stateEMPTY
+2024-12-13 21:56:56 INFO  Game:384 - Action button clicked
+2024-12-13 21:56:56 INFO  Game:403 - Player 1 claimed territory at (9, 7), Result: Вы освоили территорию
+2024-12-13 21:56:56 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:56:56 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (1, 1)
+2024-12-13 21:56:56 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:56:56 INFO  Game:669 - End of day 3 started.
+2024-12-13 21:56:56 INFO  Game:713 - End of day 4 completed.
+2024-12-13 21:56:56 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:56 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:56 INFO  Game:478 - Updating game map...
+2024-12-13 21:56:56 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:56:56 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:56 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:56 INFO  Game:478 - Updating game map...
+2024-12-13 21:56:56 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:56:57 INFO  Game:364 - Tile clicked at coordinates (7, 9stateEMPTY
+2024-12-13 21:56:58 INFO  Game:384 - Action button clicked
+2024-12-13 21:56:58 INFO  Game:403 - Player 1 claimed territory at (7, 9), Result: Вы освоили территорию
+2024-12-13 21:56:58 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:56:58 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (2, 0)
+2024-12-13 21:56:58 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:56:58 INFO  Game:669 - End of day 4 started.
+2024-12-13 21:56:58 INFO  Game:713 - End of day 5 completed.
+2024-12-13 21:56:58 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:58 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:58 INFO  Game:478 - Updating game map...
+2024-12-13 21:56:58 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:56:58 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:56:58 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:56:58 INFO  Game:478 - Updating game map...
+2024-12-13 21:56:58 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:28 INFO  Game:364 - Tile clicked at coordinates (9, 6stateEMPTY
+2024-12-13 21:58:30 INFO  Game:364 - Tile clicked at coordinates (9, 9stateRICE1
+2024-12-13 21:58:30 INFO  Game:384 - Action button clicked
+2024-12-13 21:58:30 INFO  Game:409 - Player 1 watered rice at (9, 9), Result: {}Вы полили рис, теперь он растёт быстрее
+2024-12-13 21:58:30 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:58:30 INFO  Game:655 - AI player collected water (no other actions possible).
+2024-12-13 21:58:30 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:58:30 INFO  Game:669 - End of day 5 started.
+2024-12-13 21:58:30 INFO  Game:713 - End of day 6 completed.
+2024-12-13 21:58:30 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:30 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:30 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:30 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:30 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:30 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:30 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:31 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:31 INFO  Game:364 - Tile clicked at coordinates (9, 8stateEMPTY
+2024-12-13 21:58:32 INFO  Game:384 - Action button clicked
+2024-12-13 21:58:32 INFO  Game:409 - Player 1 watered rice at (9, 8), Result: {}Вы полили рис, теперь он растёт быстрее
+2024-12-13 21:58:32 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:58:32 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (0, 0)
+2024-12-13 21:58:32 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:58:32 INFO  Game:669 - End of day 6 started.
+2024-12-13 21:58:32 INFO  Game:713 - End of day 7 completed.
+2024-12-13 21:58:32 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:32 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:32 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:32 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:32 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:32 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:32 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:32 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:33 INFO  Game:364 - Tile clicked at coordinates (8, 9stateEMPTY
+2024-12-13 21:58:34 INFO  Game:384 - Action button clicked
+2024-12-13 21:58:34 INFO  Game:409 - Player 1 watered rice at (8, 9), Result: {}Недостаточно воды
+2024-12-13 21:58:34 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:58:34 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (0, 1)
+2024-12-13 21:58:34 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:58:34 INFO  Game:669 - End of day 7 started.
+2024-12-13 21:58:34 INFO  Game:713 - End of day 8 completed.
+2024-12-13 21:58:34 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:34 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:34 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:34 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:34 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:34 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:34 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:34 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:35 INFO  Game:364 - Tile clicked at coordinates (8, 9stateEMPTY
+2024-12-13 21:58:36 INFO  Game:384 - Action button clicked
+2024-12-13 21:58:36 INFO  Game:397 - Player 1 collected water.
+2024-12-13 21:58:36 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:58:36 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (0, 2)
+2024-12-13 21:58:36 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:58:36 INFO  Game:669 - End of day 8 started.
+2024-12-13 21:58:36 INFO  Game:713 - End of day 9 completed.
+2024-12-13 21:58:36 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:36 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:36 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:36 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:36 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:36 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:36 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:36 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:37 INFO  Game:364 - Tile clicked at coordinates (8, 9stateEMPTY
+2024-12-13 21:58:38 INFO  Game:384 - Action button clicked
+2024-12-13 21:58:38 INFO  Game:409 - Player 1 watered rice at (8, 9), Result: {}Вы полили рис, теперь он растёт быстрее
+2024-12-13 21:58:38 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:58:38 INFO  Game:655 - AI player collected water (no other actions possible).
+2024-12-13 21:58:38 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:58:38 INFO  Game:669 - End of day 9 started.
+2024-12-13 21:58:38 INFO  Game:713 - End of day 10 completed.
+2024-12-13 21:58:38 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:38 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:38 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:38 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:38 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:38 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:38 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:38 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:39 INFO  Game:364 - Tile clicked at coordinates (9, 9stateRICE1
+2024-12-13 21:58:47 INFO  Game:384 - Action button clicked
+2024-12-13 21:58:47 INFO  Game:415 - Player 1 built house at (9, 9), Result: Вы построили дом, теперь у вас будет больше крестьян
+2024-12-13 21:58:47 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:58:47 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (1, 0)
+2024-12-13 21:58:47 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:58:47 INFO  Game:669 - End of day 10 started.
+2024-12-13 21:58:47 INFO  Game:713 - End of day 11 completed.
+2024-12-13 21:58:47 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:47 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:47 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:47 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:47 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:47 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:47 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:47 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:48 INFO  Game:364 - Tile clicked at coordinates (9, 8stateEMPTY
+2024-12-13 21:58:50 INFO  Game:384 - Action button clicked
+2024-12-13 21:58:50 INFO  Game:397 - Player 1 collected water.
+2024-12-13 21:58:50 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:58:50 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (1, 1)
+2024-12-13 21:58:50 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:58:50 INFO  Game:669 - End of day 11 started.
+2024-12-13 21:58:50 INFO  Game:713 - End of day 12 completed.
+2024-12-13 21:58:50 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:50 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:50 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:50 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:50 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:50 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:50 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:50 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:52 INFO  Game:364 - Tile clicked at coordinates (8, 8stateEMPTY
+2024-12-13 21:58:53 INFO  Game:384 - Action button clicked
+2024-12-13 21:58:53 INFO  Game:409 - Player 1 watered rice at (8, 8), Result: {}Вы полили рис, теперь он растёт быстрее
+2024-12-13 21:58:53 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:58:53 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (2, 0)
+2024-12-13 21:58:53 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:58:53 INFO  Game:669 - End of day 12 started.
+2024-12-13 21:58:53 INFO  Game:713 - End of day 13 completed.
+2024-12-13 21:58:53 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:53 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:53 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:53 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:53 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:53 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:53 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:53 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:54 INFO  Game:364 - Tile clicked at coordinates (9, 8stateEMPTY
+2024-12-13 21:58:55 INFO  Game:384 - Action button clicked
+2024-12-13 21:58:55 INFO  Game:397 - Player 1 collected water.
+2024-12-13 21:58:55 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:58:55 INFO  Game:655 - AI player collected water (no other actions possible).
+2024-12-13 21:58:55 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:58:55 INFO  Game:669 - End of day 13 started.
+2024-12-13 21:58:55 INFO  Game:713 - End of day 14 completed.
+2024-12-13 21:58:55 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:55 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:55 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:55 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:55 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:55 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:55 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:55 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:57 INFO  Game:364 - Tile clicked at coordinates (9, 7stateEMPTY
+2024-12-13 21:58:58 INFO  Game:384 - Action button clicked
+2024-12-13 21:58:58 INFO  Game:409 - Player 1 watered rice at (9, 7), Result: {}Вы полили рис, теперь он растёт быстрее
+2024-12-13 21:58:58 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:58:58 INFO  Game:651 - AI player performed other action. Result: ИИ построил дом в клетке (0, 0)
+2024-12-13 21:58:58 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:58:58 INFO  Game:669 - End of day 14 started.
+2024-12-13 21:58:58 INFO  Game:713 - End of day 15 completed.
+2024-12-13 21:58:58 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:58 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:58 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:58 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:58:58 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:58:58 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:58:58 INFO  Game:478 - Updating game map...
+2024-12-13 21:58:58 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:00 INFO  Game:364 - Tile clicked at coordinates (7, 9stateEMPTY
+2024-12-13 21:59:01 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:01 INFO  Game:409 - Player 1 watered rice at (7, 9), Result: {}Вы полили рис, теперь он растёт быстрее
+2024-12-13 21:59:01 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:01 INFO  Game:651 - AI player performed other action. Result: ИИ набрал воду, больше ему делать нечего :/
+2024-12-13 21:59:01 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:01 INFO  Game:669 - End of day 15 started.
+2024-12-13 21:59:01 INFO  Game:713 - End of day 16 completed.
+2024-12-13 21:59:01 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:01 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:01 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:01 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:01 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:01 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:01 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:01 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:03 INFO  Game:364 - Tile clicked at coordinates (9, 6stateEMPTY
+2024-12-13 21:59:03 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:03 INFO  Game:403 - Player 1 claimed territory at (9, 6), Result: Вы освоили территорию
+2024-12-13 21:59:03 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:03 INFO  Game:651 - AI player performed other action. Result: ИИ набрал воду, больше ему делать нечего :/
+2024-12-13 21:59:03 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:03 INFO  Game:669 - End of day 16 started.
+2024-12-13 21:59:03 INFO  Game:713 - End of day 17 completed.
+2024-12-13 21:59:03 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:03 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:03 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:03 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:03 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:03 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:03 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:03 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:04 INFO  Game:364 - Tile clicked at coordinates (8, 7stateEMPTY
+2024-12-13 21:59:05 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:05 INFO  Game:403 - Player 1 claimed territory at (8, 7), Result: Вы освоили территорию
+2024-12-13 21:59:05 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:05 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 3)
+2024-12-13 21:59:05 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:05 INFO  Game:669 - End of day 17 started.
+2024-12-13 21:59:05 INFO  Game:713 - End of day 18 completed.
+2024-12-13 21:59:05 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:05 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:05 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:05 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:05 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:05 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:05 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:05 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:06 INFO  Game:364 - Tile clicked at coordinates (7, 8stateEMPTY
+2024-12-13 21:59:07 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:07 INFO  Game:403 - Player 1 claimed territory at (7, 8), Result: Вы освоили территорию
+2024-12-13 21:59:07 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:07 INFO  Game:651 - AI player performed other action. Result: ИИ построил дом в клетке (0, 1)
+2024-12-13 21:59:07 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:07 INFO  Game:669 - End of day 18 started.
+2024-12-13 21:59:07 INFO  Game:713 - End of day 19 completed.
+2024-12-13 21:59:07 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:07 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:07 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:07 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:07 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:07 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:07 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:07 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:08 INFO  Game:364 - Tile clicked at coordinates (9, 8stateEMPTY
+2024-12-13 21:59:10 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:10 INFO  Game:415 - Player 1 built house at (9, 8), Result: Вы построили дом, теперь у вас будет больше крестьян
+2024-12-13 21:59:10 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:10 INFO  Game:651 - AI player performed other action. Result: ИИ построил дом в клетке (0, 2)
+2024-12-13 21:59:10 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:10 INFO  Game:669 - End of day 19 started.
+2024-12-13 21:59:10 INFO  Game:713 - End of day 20 completed.
+2024-12-13 21:59:10 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:10 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:10 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:10 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:10 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:10 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:10 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:10 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:12 INFO  Game:364 - Tile clicked at coordinates (9, 7stateEMPTY
+2024-12-13 21:59:13 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:13 INFO  Game:397 - Player 1 collected water.
+2024-12-13 21:59:13 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:13 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (0, 3)
+2024-12-13 21:59:13 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:13 INFO  Game:669 - End of day 20 started.
+2024-12-13 21:59:13 INFO  Game:713 - End of day 21 completed.
+2024-12-13 21:59:13 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:13 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:13 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:13 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:13 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:13 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:13 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:13 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:15 INFO  Game:364 - Tile clicked at coordinates (6, 9stateEMPTY
+2024-12-13 21:59:16 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:16 INFO  Game:403 - Player 1 claimed territory at (6, 9), Result: Вы освоили территорию
+2024-12-13 21:59:16 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:16 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (1, 2)
+2024-12-13 21:59:16 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:16 INFO  Game:669 - End of day 21 started.
+2024-12-13 21:59:16 INFO  Game:713 - End of day 22 completed.
+2024-12-13 21:59:16 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:16 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:16 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:16 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:16 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:16 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:16 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:16 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:18 INFO  Game:364 - Tile clicked at coordinates (5, 9stateEMPTY
+2024-12-13 21:59:20 INFO  Game:364 - Tile clicked at coordinates (9, 8stateEMPTY
+2024-12-13 21:59:21 INFO  Game:364 - Tile clicked at coordinates (8, 9stateEMPTY
+2024-12-13 21:59:22 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:22 INFO  Game:415 - Player 1 built house at (8, 9), Result: Вы построили дом, теперь у вас будет больше крестьян
+2024-12-13 21:59:22 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:22 INFO  Game:651 - AI player performed other action. Result: ИИ построил дом в клетке (0, 3)
+2024-12-13 21:59:22 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:22 INFO  Game:669 - End of day 22 started.
+2024-12-13 21:59:22 INFO  Game:713 - End of day 23 completed.
+2024-12-13 21:59:22 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:22 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:22 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:22 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:22 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:22 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:22 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:22 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:23 INFO  Game:364 - Tile clicked at coordinates (6, 8stateEMPTY
+2024-12-13 21:59:26 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:26 INFO  Game:403 - Player 1 claimed territory at (6, 8), Result: Вы освоили территорию
+2024-12-13 21:59:26 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:26 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (2, 1)
+2024-12-13 21:59:26 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:26 INFO  Game:669 - End of day 23 started.
+2024-12-13 21:59:26 INFO  Game:713 - End of day 24 completed.
+2024-12-13 21:59:26 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:26 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:26 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:26 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:26 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:26 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:26 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:26 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:28 INFO  Game:364 - Tile clicked at coordinates (9, 5stateEMPTY
+2024-12-13 21:59:28 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:28 INFO  Game:403 - Player 1 claimed territory at (9, 5), Result: Вы освоили территорию
+2024-12-13 21:59:28 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:28 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (3, 0)
+2024-12-13 21:59:28 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:28 INFO  Game:669 - End of day 24 started.
+2024-12-13 21:59:28 INFO  Game:713 - End of day 25 completed.
+2024-12-13 21:59:28 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:28 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:28 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:28 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:28 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:28 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:28 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:28 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:30 INFO  Game:364 - Tile clicked at coordinates (8, 8stateEMPTY
+2024-12-13 21:59:32 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:32 INFO  Game:415 - Player 1 built house at (8, 8), Result: Вы построили дом, теперь у вас будет больше крестьян
+2024-12-13 21:59:32 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:32 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 4)
+2024-12-13 21:59:32 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:32 INFO  Game:669 - End of day 25 started.
+2024-12-13 21:59:32 INFO  Game:713 - End of day 26 completed.
+2024-12-13 21:59:32 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:32 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:32 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:32 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:32 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:32 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:32 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:32 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:33 INFO  Game:364 - Tile clicked at coordinates (8, 6stateEMPTY
+2024-12-13 21:59:34 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:34 INFO  Game:403 - Player 1 claimed territory at (8, 6), Result: Вы освоили территорию
+2024-12-13 21:59:34 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:34 INFO  Game:655 - AI player collected water (no other actions possible).
+2024-12-13 21:59:34 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:34 INFO  Game:669 - End of day 26 started.
+2024-12-13 21:59:34 INFO  Game:713 - End of day 27 completed.
+2024-12-13 21:59:34 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:34 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:34 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:34 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:34 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:34 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:34 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:34 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:35 INFO  Game:364 - Tile clicked at coordinates (7, 7stateEMPTY
+2024-12-13 21:59:36 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:36 INFO  Game:403 - Player 1 claimed territory at (7, 7), Result: Вы освоили территорию
+2024-12-13 21:59:36 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:36 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (1, 3)
+2024-12-13 21:59:36 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:36 INFO  Game:669 - End of day 27 started.
+2024-12-13 21:59:36 INFO  Game:713 - End of day 28 completed.
+2024-12-13 21:59:36 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:36 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:36 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:36 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:36 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:36 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:36 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:36 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:38 INFO  Game:364 - Tile clicked at coordinates (9, 7stateEMPTY
+2024-12-13 21:59:40 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:40 INFO  Game:397 - Player 1 collected water.
+2024-12-13 21:59:40 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:40 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (2, 2)
+2024-12-13 21:59:40 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:40 INFO  Game:669 - End of day 28 started.
+2024-12-13 21:59:40 INFO  Game:713 - End of day 29 completed.
+2024-12-13 21:59:40 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:40 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:40 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:40 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:40 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:40 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:40 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:40 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:41 INFO  Game:364 - Tile clicked at coordinates (9, 7stateEMPTY
+2024-12-13 21:59:42 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:42 INFO  Game:415 - Player 1 built house at (9, 7), Result: Вы построили дом, теперь у вас будет больше крестьян
+2024-12-13 21:59:42 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:42 INFO  Game:651 - AI player performed other action. Result: ИИ построил дом в клетке (0, 4)
+2024-12-13 21:59:42 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:42 INFO  Game:669 - End of day 29 started.
+2024-12-13 21:59:42 INFO  Game:713 - End of day 30 completed.
+2024-12-13 21:59:42 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:42 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:42 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:42 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:42 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:42 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:42 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:42 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:45 INFO  Game:364 - Tile clicked at coordinates (5, 9stateEMPTY
+2024-12-13 21:59:46 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:46 INFO  Game:403 - Player 1 claimed territory at (5, 9), Result: Вы освоили территорию
+2024-12-13 21:59:46 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:46 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (3, 1)
+2024-12-13 21:59:46 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:46 INFO  Game:669 - End of day 30 started.
+2024-12-13 21:59:46 INFO  Game:713 - End of day 31 completed.
+2024-12-13 21:59:46 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:46 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:46 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:46 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:46 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:46 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:46 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:46 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:47 INFO  Game:364 - Tile clicked at coordinates (9, 4stateEMPTY
+2024-12-13 21:59:48 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:48 INFO  Game:403 - Player 1 claimed territory at (9, 4), Result: Вы освоили территорию
+2024-12-13 21:59:48 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:48 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (4, 0)
+2024-12-13 21:59:48 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:48 INFO  Game:669 - End of day 31 started.
+2024-12-13 21:59:48 INFO  Game:713 - End of day 32 completed.
+2024-12-13 21:59:48 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:48 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:48 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:48 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:48 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:48 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:48 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:48 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:48 INFO  Game:364 - Tile clicked at coordinates (8, 5stateEMPTY
+2024-12-13 21:59:49 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:49 INFO  Game:403 - Player 1 claimed territory at (8, 5), Result: Вы освоили территорию
+2024-12-13 21:59:49 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:49 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 5)
+2024-12-13 21:59:49 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:49 INFO  Game:669 - End of day 32 started.
+2024-12-13 21:59:49 INFO  Game:713 - End of day 33 completed.
+2024-12-13 21:59:49 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:49 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:49 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:49 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:49 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:49 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:49 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:49 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:50 INFO  Game:364 - Tile clicked at coordinates (7, 6stateEMPTY
+2024-12-13 21:59:51 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:51 INFO  Game:403 - Player 1 claimed territory at (7, 6), Result: Вы освоили территорию
+2024-12-13 21:59:51 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:51 INFO  Game:651 - AI player performed other action. Result: ИИ построил дом в клетке (0, 5)
+2024-12-13 21:59:51 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:51 INFO  Game:669 - End of day 33 started.
+2024-12-13 21:59:51 INFO  Game:713 - End of day 34 completed.
+2024-12-13 21:59:51 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:51 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:51 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:51 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:51 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:51 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:51 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:51 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:52 INFO  Game:364 - Tile clicked at coordinates (6, 7stateEMPTY
+2024-12-13 21:59:53 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:53 INFO  Game:403 - Player 1 claimed territory at (6, 7), Result: Вы освоили территорию
+2024-12-13 21:59:53 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:53 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (1, 4)
+2024-12-13 21:59:53 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:53 INFO  Game:669 - End of day 34 started.
+2024-12-13 21:59:53 INFO  Game:713 - End of day 35 completed.
+2024-12-13 21:59:53 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:53 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:53 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:53 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:53 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:53 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:53 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:53 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:54 INFO  Game:364 - Tile clicked at coordinates (5, 8stateEMPTY
+2024-12-13 21:59:55 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:55 INFO  Game:403 - Player 1 claimed territory at (5, 8), Result: Вы освоили территорию
+2024-12-13 21:59:55 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:55 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (2, 3)
+2024-12-13 21:59:55 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:55 INFO  Game:669 - End of day 35 started.
+2024-12-13 21:59:55 INFO  Game:713 - End of day 36 completed.
+2024-12-13 21:59:55 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:55 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:55 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:55 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:55 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:55 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:55 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:55 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:56 INFO  Game:364 - Tile clicked at coordinates (4, 9stateEMPTY
+2024-12-13 21:59:57 INFO  Game:384 - Action button clicked
+2024-12-13 21:59:57 INFO  Game:403 - Player 1 claimed territory at (4, 9), Result: Вы освоили территорию
+2024-12-13 21:59:57 INFO  Game:642 - AI player's turn started.
+2024-12-13 21:59:57 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (3, 2)
+2024-12-13 21:59:57 INFO  Game:659 - AI player's turn ended.
+2024-12-13 21:59:57 INFO  Game:669 - End of day 36 started.
+2024-12-13 21:59:57 INFO  Game:713 - End of day 37 completed.
+2024-12-13 21:59:57 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:57 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:57 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:57 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:57 INFO  Game:518 - Updating player characteristics...
+2024-12-13 21:59:57 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 21:59:57 INFO  Game:478 - Updating game map...
+2024-12-13 21:59:57 INFO  Game:510 - Game map updated successfully.
+2024-12-13 21:59:58 INFO  Game:364 - Tile clicked at coordinates (8, 7stateEMPTY
+2024-12-13 22:00:00 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:00 INFO  Game:397 - Player 1 collected water.
+2024-12-13 22:00:00 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:00 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (4, 1)
+2024-12-13 22:00:00 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:00 INFO  Game:669 - End of day 37 started.
+2024-12-13 22:00:00 INFO  Game:713 - End of day 38 completed.
+2024-12-13 22:00:00 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:00 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:00 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:00 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:00 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:00 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:00 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:00 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:02 INFO  Game:364 - Tile clicked at coordinates (3, 9stateEMPTY
+2024-12-13 22:00:03 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:03 INFO  Game:403 - Player 1 claimed territory at (3, 9), Result: Вы освоили территорию
+2024-12-13 22:00:03 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:03 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (5, 0)
+2024-12-13 22:00:03 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:03 INFO  Game:669 - End of day 38 started.
+2024-12-13 22:00:03 INFO  Game:713 - End of day 39 completed.
+2024-12-13 22:00:03 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:03 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:03 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:03 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:03 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:03 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:03 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:03 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:04 INFO  Game:364 - Tile clicked at coordinates (4, 8stateEMPTY
+2024-12-13 22:00:04 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:04 INFO  Game:403 - Player 1 claimed territory at (4, 8), Result: Вы освоили территорию
+2024-12-13 22:00:04 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:04 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 6)
+2024-12-13 22:00:04 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:04 INFO  Game:669 - End of day 39 started.
+2024-12-13 22:00:04 INFO  Game:713 - End of day 40 completed.
+2024-12-13 22:00:04 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:04 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:04 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:05 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:05 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:05 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:05 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:05 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:06 INFO  Game:364 - Tile clicked at coordinates (8, 7stateEMPTY
+2024-12-13 22:00:08 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:08 INFO  Game:415 - Player 1 built house at (8, 7), Result: Вы построили дом, теперь у вас будет больше крестьян
+2024-12-13 22:00:08 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:08 INFO  Game:655 - AI player collected water (no other actions possible).
+2024-12-13 22:00:08 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:08 INFO  Game:669 - End of day 40 started.
+2024-12-13 22:00:08 INFO  Game:713 - End of day 41 completed.
+2024-12-13 22:00:08 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:08 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:08 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:08 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:08 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:08 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:08 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:08 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:09 INFO  Game:364 - Tile clicked at coordinates (7, 9stateEMPTY
+2024-12-13 22:00:09 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:09 INFO  Game:415 - Player 1 built house at (7, 9), Result: Вы построили дом, теперь у вас будет больше крестьян
+2024-12-13 22:00:09 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:09 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (1, 5)
+2024-12-13 22:00:09 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:09 INFO  Game:669 - End of day 41 started.
+2024-12-13 22:00:09 INFO  Game:713 - End of day 42 completed.
+2024-12-13 22:00:09 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:09 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:09 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:09 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:09 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:09 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:09 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:10 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:10 INFO  Game:364 - Tile clicked at coordinates (9, 3stateEMPTY
+2024-12-13 22:00:11 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:11 INFO  Game:403 - Player 1 claimed territory at (9, 3), Result: Вы освоили территорию
+2024-12-13 22:00:11 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:11 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (2, 4)
+2024-12-13 22:00:11 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:11 INFO  Game:669 - End of day 42 started.
+2024-12-13 22:00:11 INFO  Game:713 - End of day 43 completed.
+2024-12-13 22:00:11 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:11 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:11 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:11 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:11 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:11 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:11 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:11 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:11 INFO  Game:364 - Tile clicked at coordinates (8, 4stateEMPTY
+2024-12-13 22:00:12 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:12 INFO  Game:403 - Player 1 claimed territory at (8, 4), Result: Вы освоили территорию
+2024-12-13 22:00:12 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:12 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (3, 3)
+2024-12-13 22:00:12 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:12 INFO  Game:669 - End of day 43 started.
+2024-12-13 22:00:12 INFO  Game:713 - End of day 44 completed.
+2024-12-13 22:00:12 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:12 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:12 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:12 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:12 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:12 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:12 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:12 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:13 INFO  Game:364 - Tile clicked at coordinates (7, 5stateEMPTY
+2024-12-13 22:00:13 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:13 INFO  Game:403 - Player 1 claimed territory at (7, 5), Result: Вы освоили территорию
+2024-12-13 22:00:13 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:13 INFO  Game:651 - AI player performed other action. Result: ИИ построил дом в клетке (0, 6)
+2024-12-13 22:00:13 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:13 INFO  Game:669 - End of day 44 started.
+2024-12-13 22:00:13 INFO  Game:713 - End of day 45 completed.
+2024-12-13 22:00:13 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:13 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:13 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:13 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:13 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:13 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:13 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:13 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:14 INFO  Game:364 - Tile clicked at coordinates (6, 6stateEMPTY
+2024-12-13 22:00:15 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:15 INFO  Game:403 - Player 1 claimed territory at (6, 6), Result: Вы освоили территорию
+2024-12-13 22:00:15 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:15 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (4, 2)
+2024-12-13 22:00:15 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:15 INFO  Game:669 - End of day 45 started.
+2024-12-13 22:00:15 INFO  Game:713 - End of day 46 completed.
+2024-12-13 22:00:15 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:15 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:15 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:15 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:15 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:15 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:15 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:15 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:16 INFO  Game:364 - Tile clicked at coordinates (5, 7stateEMPTY
+2024-12-13 22:00:16 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:16 INFO  Game:403 - Player 1 claimed territory at (5, 7), Result: Вы освоили территорию
+2024-12-13 22:00:16 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:16 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (5, 1)
+2024-12-13 22:00:16 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:16 INFO  Game:669 - End of day 46 started.
+2024-12-13 22:00:16 INFO  Game:713 - End of day 47 completed.
+2024-12-13 22:00:16 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:16 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:16 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:16 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:16 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:16 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:16 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:16 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:18 INFO  Game:364 - Tile clicked at coordinates (3, 8stateEMPTY
+2024-12-13 22:00:19 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:19 INFO  Game:403 - Player 1 claimed territory at (3, 8), Result: Вы освоили территорию
+2024-12-13 22:00:19 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:19 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (6, 0)
+2024-12-13 22:00:19 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:19 INFO  Game:669 - End of day 47 started.
+2024-12-13 22:00:19 INFO  Game:713 - End of day 48 completed.
+2024-12-13 22:00:19 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:19 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:19 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:19 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:19 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:19 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:19 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:19 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:20 INFO  Game:364 - Tile clicked at coordinates (4, 7stateEMPTY
+2024-12-13 22:00:21 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:21 INFO  Game:403 - Player 1 claimed territory at (4, 7), Result: Вы освоили территорию
+2024-12-13 22:00:21 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:21 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 7)
+2024-12-13 22:00:21 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:21 INFO  Game:669 - End of day 48 started.
+2024-12-13 22:00:21 INFO  Game:713 - End of day 49 completed.
+2024-12-13 22:00:21 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:21 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:21 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:21 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:21 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:21 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:21 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:21 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:21 INFO  Game:364 - Tile clicked at coordinates (5, 6stateEMPTY
+2024-12-13 22:00:22 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:22 INFO  Game:403 - Player 1 claimed territory at (5, 6), Result: Вы освоили территорию
+2024-12-13 22:00:22 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:22 INFO  Game:655 - AI player collected water (no other actions possible).
+2024-12-13 22:00:22 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:22 INFO  Game:669 - End of day 49 started.
+2024-12-13 22:00:22 INFO  Game:713 - End of day 50 completed.
+2024-12-13 22:00:22 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:22 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:22 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:22 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:22 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:22 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:22 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:22 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:23 INFO  Game:364 - Tile clicked at coordinates (6, 5stateEMPTY
+2024-12-13 22:00:24 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:24 INFO  Game:403 - Player 1 claimed territory at (6, 5), Result: Вы освоили территорию
+2024-12-13 22:00:24 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:24 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (1, 6)
+2024-12-13 22:00:24 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:24 INFO  Game:669 - End of day 50 started.
+2024-12-13 22:00:24 INFO  Game:713 - End of day 51 completed.
+2024-12-13 22:00:24 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:24 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:24 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:24 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:24 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:24 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:24 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:24 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:25 INFO  Game:364 - Tile clicked at coordinates (7, 4stateEMPTY
+2024-12-13 22:00:25 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:25 INFO  Game:403 - Player 1 claimed territory at (7, 4), Result: Вы освоили территорию
+2024-12-13 22:00:25 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:25 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (2, 5)
+2024-12-13 22:00:25 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:25 INFO  Game:669 - End of day 51 started.
+2024-12-13 22:00:25 INFO  Game:713 - End of day 52 completed.
+2024-12-13 22:00:25 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:25 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:25 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:25 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:25 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:25 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:25 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:25 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:26 INFO  Game:364 - Tile clicked at coordinates (8, 3stateEMPTY
+2024-12-13 22:00:26 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:26 INFO  Game:403 - Player 1 claimed territory at (8, 3), Result: Вы освоили территорию
+2024-12-13 22:00:26 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:26 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (3, 4)
+2024-12-13 22:00:26 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:26 INFO  Game:669 - End of day 52 started.
+2024-12-13 22:00:26 INFO  Game:713 - End of day 53 completed.
+2024-12-13 22:00:26 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:26 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:26 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:26 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:26 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:26 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:26 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:27 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:27 INFO  Game:364 - Tile clicked at coordinates (9, 2stateEMPTY
+2024-12-13 22:00:28 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:28 INFO  Game:403 - Player 1 claimed territory at (9, 2), Result: Вы освоили территорию
+2024-12-13 22:00:28 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:28 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (0, 4)
+2024-12-13 22:00:28 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:28 INFO  Game:669 - End of day 53 started.
+2024-12-13 22:00:28 INFO  Game:713 - End of day 54 completed.
+2024-12-13 22:00:28 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:28 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:28 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:28 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:28 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:28 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:28 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:28 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:31 INFO  Game:364 - Tile clicked at coordinates (7, 8stateEMPTY
+2024-12-13 22:00:32 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:32 INFO  Game:397 - Player 1 collected water.
+2024-12-13 22:00:32 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:32 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (4, 3)
+2024-12-13 22:00:32 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:32 INFO  Game:669 - End of day 54 started.
+2024-12-13 22:00:32 INFO  Game:713 - End of day 55 completed.
+2024-12-13 22:00:32 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:32 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:32 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:32 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:32 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:32 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:32 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:32 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:32 INFO  Game:364 - Tile clicked at coordinates (9, 1stateEMPTY
+2024-12-13 22:00:33 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:33 INFO  Game:403 - Player 1 claimed territory at (9, 1), Result: Вы освоили территорию
+2024-12-13 22:00:33 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:33 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (5, 2)
+2024-12-13 22:00:33 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:33 INFO  Game:669 - End of day 55 started.
+2024-12-13 22:00:33 INFO  Game:713 - End of day 56 completed.
+2024-12-13 22:00:33 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:33 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:33 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:33 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:33 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:33 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:33 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:33 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:33 INFO  Game:364 - Tile clicked at coordinates (8, 2stateEMPTY
+2024-12-13 22:00:34 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:34 INFO  Game:403 - Player 1 claimed territory at (8, 2), Result: Вы освоили территорию
+2024-12-13 22:00:34 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:34 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (0, 5)
+2024-12-13 22:00:34 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:34 INFO  Game:669 - End of day 56 started.
+2024-12-13 22:00:34 INFO  Game:713 - End of day 57 completed.
+2024-12-13 22:00:34 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:34 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:34 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:34 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:34 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:34 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:34 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:34 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:35 INFO  Game:364 - Tile clicked at coordinates (7, 3stateEMPTY
+2024-12-13 22:00:36 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:36 INFO  Game:403 - Player 1 claimed territory at (7, 3), Result: Вы освоили территорию
+2024-12-13 22:00:36 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:36 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (0, 6)
+2024-12-13 22:00:36 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:36 INFO  Game:669 - End of day 57 started.
+2024-12-13 22:00:36 INFO  Game:713 - End of day 58 completed.
+2024-12-13 22:00:36 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:36 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:36 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:36 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:36 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:36 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:36 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:36 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:37 INFO  Game:364 - Tile clicked at coordinates (6, 4stateEMPTY
+2024-12-13 22:00:37 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:38 INFO  Game:403 - Player 1 claimed territory at (6, 4), Result: Вы освоили территорию
+2024-12-13 22:00:38 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:38 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (6, 1)
+2024-12-13 22:00:38 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:38 INFO  Game:669 - End of day 58 started.
+2024-12-13 22:00:38 INFO  Game:713 - End of day 59 completed.
+2024-12-13 22:00:38 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:38 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:38 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:38 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:38 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:38 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:38 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:38 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:39 INFO  Game:364 - Tile clicked at coordinates (9, 6stateEMPTY
+2024-12-13 22:00:40 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:40 INFO  Game:415 - Player 1 built house at (9, 6), Result: Вы построили дом, теперь у вас будет больше крестьян
+2024-12-13 22:00:40 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:40 INFO  Game:655 - AI player collected water (no other actions possible).
+2024-12-13 22:00:40 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:40 INFO  Game:669 - End of day 59 started.
+2024-12-13 22:00:40 INFO  Game:713 - End of day 60 completed.
+2024-12-13 22:00:40 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:40 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:40 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:40 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:40 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:40 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:40 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:40 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:41 INFO  Game:364 - Tile clicked at coordinates (5, 5stateEMPTY
+2024-12-13 22:00:42 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:42 INFO  Game:403 - Player 1 claimed territory at (5, 5), Result: Вы освоили территорию
+2024-12-13 22:00:42 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:42 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (7, 0)
+2024-12-13 22:00:42 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:42 INFO  Game:669 - End of day 60 started.
+2024-12-13 22:00:42 INFO  Game:713 - End of day 61 completed.
+2024-12-13 22:00:42 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:42 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:42 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:42 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:42 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:42 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:42 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:42 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:43 INFO  Game:364 - Tile clicked at coordinates (4, 6stateEMPTY
+2024-12-13 22:00:44 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:44 INFO  Game:403 - Player 1 claimed territory at (4, 6), Result: Вы освоили территорию
+2024-12-13 22:00:44 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:44 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (0, 7)
+2024-12-13 22:00:44 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:44 INFO  Game:669 - End of day 61 started.
+2024-12-13 22:00:44 INFO  Game:713 - End of day 62 completed.
+2024-12-13 22:00:44 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:44 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:44 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:44 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:44 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:44 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:44 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:44 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:45 INFO  Game:364 - Tile clicked at coordinates (3, 7stateEMPTY
+2024-12-13 22:00:47 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:47 INFO  Game:403 - Player 1 claimed territory at (3, 7), Result: Вы освоили территорию
+2024-12-13 22:00:47 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:47 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 8)
+2024-12-13 22:00:47 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:47 INFO  Game:669 - End of day 62 started.
+2024-12-13 22:00:47 INFO  Game:713 - End of day 63 completed.
+2024-12-13 22:00:47 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:47 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:47 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:47 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:47 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:47 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:47 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:47 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:48 INFO  Game:364 - Tile clicked at coordinates (2, 9stateEMPTY
+2024-12-13 22:00:49 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:49 INFO  Game:403 - Player 1 claimed territory at (2, 9), Result: Вы освоили территорию
+2024-12-13 22:00:49 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:49 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (0, 8)
+2024-12-13 22:00:49 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:49 INFO  Game:669 - End of day 63 started.
+2024-12-13 22:00:49 INFO  Game:713 - End of day 64 completed.
+2024-12-13 22:00:49 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:49 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:49 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:49 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:49 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:49 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:49 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:49 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:50 INFO  Game:364 - Tile clicked at coordinates (2, 8stateEMPTY
+2024-12-13 22:00:51 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:51 INFO  Game:403 - Player 1 claimed territory at (2, 8), Result: Вы освоили территорию
+2024-12-13 22:00:51 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:51 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (1, 7)
+2024-12-13 22:00:51 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:51 INFO  Game:669 - End of day 64 started.
+2024-12-13 22:00:51 INFO  Game:713 - End of day 65 completed.
+2024-12-13 22:00:51 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:51 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:51 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:51 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:51 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:51 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:51 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:51 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:53 INFO  Game:364 - Tile clicked at coordinates (7, 8stateEMPTY
+2024-12-13 22:00:55 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:55 INFO  Game:397 - Player 1 collected water.
+2024-12-13 22:00:55 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:55 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (1, 2)
+2024-12-13 22:00:55 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:55 INFO  Game:669 - End of day 65 started.
+2024-12-13 22:00:55 INFO  Game:713 - End of day 66 completed.
+2024-12-13 22:00:55 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:55 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:55 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:55 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:55 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:55 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:55 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:55 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:57 INFO  Game:364 - Tile clicked at coordinates (4, 5stateEMPTY
+2024-12-13 22:00:58 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:58 INFO  Game:403 - Player 1 claimed territory at (4, 5), Result: Вы освоили территорию
+2024-12-13 22:00:58 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:58 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (2, 6)
+2024-12-13 22:00:58 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:58 INFO  Game:669 - End of day 66 started.
+2024-12-13 22:00:58 INFO  Game:713 - End of day 67 completed.
+2024-12-13 22:00:58 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:58 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:58 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:58 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:58 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:58 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:58 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:58 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:59 INFO  Game:364 - Tile clicked at coordinates (9, 0stateEMPTY
+2024-12-13 22:00:59 INFO  Game:384 - Action button clicked
+2024-12-13 22:00:59 INFO  Game:403 - Player 1 claimed territory at (9, 0), Result: Вы освоили территорию
+2024-12-13 22:00:59 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:00:59 INFO  Game:655 - AI player collected water (no other actions possible).
+2024-12-13 22:00:59 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:00:59 INFO  Game:669 - End of day 67 started.
+2024-12-13 22:00:59 INFO  Game:713 - End of day 68 completed.
+2024-12-13 22:00:59 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:59 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:59 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:59 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:00:59 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:00:59 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:00:59 INFO  Game:478 - Updating game map...
+2024-12-13 22:00:59 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:01:00 INFO  Game:364 - Tile clicked at coordinates (7, 1stateEMPTY
+2024-12-13 22:01:01 INFO  Game:384 - Action button clicked
+2024-12-13 22:01:01 INFO  Game:403 - Player 1 claimed territory at (7, 1), Result: Вы освоили территорию
+2024-12-13 22:01:01 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:01:01 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (3, 5)
+2024-12-13 22:01:01 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:01:01 INFO  Game:669 - End of day 68 started.
+2024-12-13 22:01:01 INFO  Game:713 - End of day 69 completed.
+2024-12-13 22:01:01 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:01:01 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:01:01 INFO  Game:478 - Updating game map...
+2024-12-13 22:01:01 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:01:01 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:01:01 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:01:01 INFO  Game:478 - Updating game map...
+2024-12-13 22:01:01 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:01:02 INFO  Game:364 - Tile clicked at coordinates (4, 4stateEMPTY
+2024-12-13 22:01:03 INFO  Game:384 - Action button clicked
+2024-12-13 22:01:03 INFO  Game:403 - Player 1 claimed territory at (4, 4), Result: Вы освоили территорию
+2024-12-13 22:01:03 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:01:03 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (1, 3)
+2024-12-13 22:01:03 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:01:03 INFO  Game:669 - End of day 69 started.
+2024-12-13 22:01:03 INFO  Game:713 - End of day 70 completed.
+2024-12-13 22:01:03 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:01:03 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:01:03 INFO  Game:478 - Updating game map...
+2024-12-13 22:01:03 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:01:03 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:01:03 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:01:03 INFO  Game:478 - Updating game map...
+2024-12-13 22:01:03 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:01:04 INFO  Game:364 - Tile clicked at coordinates (1, 9stateEMPTY
+2024-12-13 22:01:05 INFO  Game:384 - Action button clicked
+2024-12-13 22:01:05 INFO  Game:403 - Player 1 claimed territory at (1, 9), Result: Вы освоили территорию
+2024-12-13 22:01:05 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:01:05 INFO  Game:651 - AI player performed other action. Result: ИИ полил рис в клетке (1, 4)
+2024-12-13 22:01:05 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:01:05 INFO  Game:669 - End of day 70 started.
+2024-12-13 22:01:05 INFO  Game:713 - End of day 71 completed.
+2024-12-13 22:01:05 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:01:05 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:01:05 INFO  Game:478 - Updating game map...
+2024-12-13 22:01:05 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:01:05 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:01:05 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:01:05 INFO  Game:478 - Updating game map...
+2024-12-13 22:01:05 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:01:07 INFO  Game:364 - Tile clicked at coordinates (8, 1stateEMPTY
+2024-12-13 22:01:07 INFO  Game:384 - Action button clicked
+2024-12-13 22:01:07 INFO  Game:403 - Player 1 claimed territory at (8, 1), Result: Вы освоили территорию
+2024-12-13 22:01:07 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:01:07 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (5, 3)
+2024-12-13 22:01:07 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:01:07 INFO  Game:669 - End of day 71 started.
+2024-12-13 22:01:07 INFO  Game:709 - Game over! Player 1 won: true
+2024-12-13 22:01:07 INFO  Game:592 - Showing end game window. Player won: true
+2024-12-13 22:01:09 INFO  Game:776 - Generating and showing resource graphs...
+2024-12-13 22:01:22 INFO  Game:817 - Resource graphs shown successfully.
+2024-12-13 22:01:24 INFO  Game:604 - End game window closed. Exiting application.
+2024-12-13 22:12:38 INFO  GameMap:32 - Creating game map with size: 10
+2024-12-13 22:12:38 INFO  GameMap:67 - Game map created successfully.
+2024-12-13 22:12:38 INFO  Game:79 - Game initialized with map size: 10
+2024-12-13 22:12:38 INFO  Game:137 - Game logic executed successfully.
+2024-12-13 22:12:40 INFO  Game:311 - Loading tile images...
+2024-12-13 22:12:42 INFO  Game:326 - Tile image loading completed.
+2024-12-13 22:12:42 INFO  Game:440 - Creating action buttons...
+2024-12-13 22:12:42 INFO  Game:468 - Action buttons created and added to panel. Initially disabled.
+2024-12-13 22:12:42 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:12:42 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:12:44 INFO  Game:261 - Game interface built successfully.
+2024-12-13 22:12:48 INFO  Game:364 - Tile clicked at coordinates (9, 8stateEMPTY
+2024-12-13 22:12:49 INFO  Game:384 - Action button clicked
+2024-12-13 22:12:49 INFO  Game:403 - Player 1 claimed territory at (9, 8), Result: Вы освоили территорию
+2024-12-13 22:12:49 INFO  Game:642 - AI player's turn started.
+2024-12-13 22:12:49 INFO  Game:646 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 1)
+2024-12-13 22:12:49 INFO  Game:659 - AI player's turn ended.
+2024-12-13 22:12:49 INFO  Game:669 - End of day 0 started.
+2024-12-13 22:12:49 INFO  Game:713 - End of day 1 completed.
+2024-12-13 22:12:49 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:12:49 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:12:49 INFO  Game:478 - Updating game map...
+2024-12-13 22:12:49 INFO  Game:510 - Game map updated successfully.
+2024-12-13 22:12:49 INFO  Game:518 - Updating player characteristics...
+2024-12-13 22:12:49 INFO  Game:539 - Player characteristics updated successfully.
+2024-12-13 22:12:49 INFO  Game:478 - Updating game map...
+2024-12-13 22:12:49 INFO  Game:510 - Game map updated successfully.
+2024-12-14 14:40:26 INFO  GameMap:32 - Creating game map with size: 10
+2024-12-14 14:40:26 INFO  GameMap:67 - Game map created successfully.
+2024-12-14 14:40:26 INFO  Game:80 - Game initialized with map size: 10
+2024-12-14 14:40:26 INFO  Game:138 - Game logic executed successfully.
+2024-12-14 14:40:29 INFO  Game:312 - Loading tile images...
+2024-12-14 14:40:29 INFO  Game:327 - Tile image loading completed.
+2024-12-14 14:40:30 INFO  Game:441 - Creating action buttons...
+2024-12-14 14:40:30 INFO  Game:469 - Action buttons created and added to panel. Initially disabled.
+2024-12-14 14:40:30 INFO  Game:519 - Updating player characteristics...
+2024-12-14 14:40:30 INFO  Game:540 - Player characteristics updated successfully.
+2024-12-14 14:40:32 INFO  Game:262 - Game interface built successfully.
+2024-12-14 14:40:44 INFO  GameMap:32 - Creating game map with size: 10
+2024-12-14 14:40:44 INFO  GameMap:67 - Game map created successfully.
+2024-12-14 14:40:44 INFO  Game:80 - Game initialized with map size: 10
+2024-12-14 14:40:44 INFO  Game:138 - Game logic executed successfully.
+2024-12-14 14:40:45 INFO  Game:312 - Loading tile images...
+2024-12-14 14:40:46 INFO  Game:327 - Tile image loading completed.
+2024-12-14 14:40:46 INFO  Game:441 - Creating action buttons...
+2024-12-14 14:40:46 INFO  Game:469 - Action buttons created and added to panel. Initially disabled.
+2024-12-14 14:40:47 INFO  Game:519 - Updating player characteristics...
+2024-12-14 14:40:47 INFO  Game:540 - Player characteristics updated successfully.
+2024-12-14 14:40:49 INFO  Game:262 - Game interface built successfully.
+2024-12-14 14:40:49 INFO  Game:365 - Tile clicked at coordinates (8, 9stateEMPTY
+2024-12-14 14:40:50 INFO  Game:385 - Action button clicked
+2024-12-14 14:40:50 INFO  Game:404 - Player 1 claimed territory at (8, 9), Result: Вы освоили территорию
+2024-12-14 14:40:50 INFO  Game:643 - AI player's turn started.
+2024-12-14 14:40:50 INFO  Game:647 - AI player claimed territory. Result: ИИ освоил ближайшую территорию (0, 1)
+2024-12-14 14:40:50 INFO  Game:660 - AI player's turn ended.
+2024-12-14 14:40:50 INFO  Game:670 - End of day 0 started.
+2024-12-14 14:40:50 INFO  Game:714 - End of day 1 completed.
+2024-12-14 14:40:50 INFO  Game:519 - Updating player characteristics...
+2024-12-14 14:40:50 INFO  Game:540 - Player characteristics updated successfully.
+2024-12-14 14:40:50 INFO  Game:479 - Updating game map...
+2024-12-14 14:40:50 INFO  Game:511 - Game map updated successfully.
+2024-12-14 14:40:50 INFO  Game:519 - Updating player characteristics...
+2024-12-14 14:40:50 INFO  Game:540 - Player characteristics updated successfully.
+2024-12-14 14:40:50 INFO  Game:479 - Updating game map...
+2024-12-14 14:40:51 INFO  Game:511 - Game map updated successfully.
+2024-12-14 14:40:53 INFO  Game:738 - Saving game to file: file
+2024-12-14 14:40:53 INFO  Game:744 - Game saved successfully to file: file
