@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="coursework:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/coursework_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="coursework.jar">
+        <element id="module-output" name="coursework" />
+      </element>
+      <element id="library" level="project" name="jfree.jfreechart" />
+    </root>
+  </artifact>
+</component>

@@ -1358,3 +1358,22 @@
 2024-12-14 14:40:51 INFO  Game:511 - Game map updated successfully.
 2024-12-14 14:40:53 INFO  Game:738 - Saving game to file: file
 2024-12-14 14:40:53 INFO  Game:744 - Game saved successfully to file: file
+2024-12-14 16:27:23 INFO  GameMap:32 - Creating game map with size: 10
+2024-12-14 16:27:23 INFO  GameMap:67 - Game map created successfully.
+2024-12-14 16:27:23 INFO  Game:80 - Game initialized with map size: 10
+2024-12-14 16:27:23 INFO  Game:138 - Game logic executed successfully.
+2024-12-14 16:48:24 INFO  GameMap:32 - Creating game map with size: 10
+2024-12-14 16:48:24 INFO  GameMap:67 - Game map created successfully.
+2024-12-14 16:48:24 INFO  Game:80 - Game initialized with map size: 10
+2024-12-14 16:48:24 INFO  Game:138 - Game logic executed successfully.
+2024-12-14 16:54:01 INFO  GameMap:32 - Creating game map with size: 10
+2024-12-14 16:54:01 INFO  GameMap:67 - Game map created successfully.
+2024-12-14 16:54:01 INFO  Game:80 - Game initialized with map size: 10
+2024-12-14 16:54:02 INFO  Game:138 - Game logic executed successfully.
+2024-12-14 16:54:04 INFO  Game:312 - Loading tile images...
+2024-12-14 16:54:05 INFO  Game:327 - Tile image loading completed.
+2024-12-14 16:54:05 INFO  Game:441 - Creating action buttons...
+2024-12-14 16:54:05 INFO  Game:469 - Action buttons created and added to panel. Initially disabled.
+2024-12-14 16:54:06 INFO  Game:519 - Updating player characteristics...
+2024-12-14 16:54:06 INFO  Game:540 - Player characteristics updated successfully.
+2024-12-14 16:54:07 INFO  Game:262 - Game interface built successfully.
