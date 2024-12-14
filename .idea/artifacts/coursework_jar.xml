@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="coursework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/coursework_jar</output-path>
+    <root id="archive" name="coursework.jar">
+      <element id="module-output" name="coursework" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/log4j.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/file" />
+    </root>
+  </artifact>
+</component>
